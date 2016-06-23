@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/screenshot.ico</file>
+        <file>resources/arrow_full_upperright_32.ico</file>
+        <file>resources/cursor_arrow.ico</file>
+        <file>resources/paint_brush.ico</file>
+        <file>resources/screenshot2.ico</file>
+        <file>resources/stock_draw_line.ico</file>
+        <file>resources/stock_draw_line_ends_with_arrow.ico</file>
+        <file>resources/text_letter_t.ico</file>
+    </qresource>
+</RCC>
